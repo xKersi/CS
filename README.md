@@ -9,4 +9,5 @@
 ~Note: Final Evaluation
 - Compilation of Java Programs. As a 1st [Finals] Year Computer Science
 - 5th - 1st Activity of Finals. FileName:[login.java]
-- 6th - For loops. [for_loops.java]
+- 6th - For loops. FileName:[for_loops.java]
+- 7th - Basic Triangle using Nested For Loops. FileName:[basic_triangle.java]
