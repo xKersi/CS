@@ -1,4 +1,4 @@
-package Java;
+package Java.Midterms;
 import java.util.*;
 
 public class cal_ie {
@@ -42,7 +42,7 @@ public class cal_ie {
         } else {
             System.out.print("Invalid Operator:" + operator +"!");
         }
-        
+
         sc.close();
     
     }
